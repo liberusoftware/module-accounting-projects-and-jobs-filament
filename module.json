@@ -18,7 +18,7 @@
   "features": [
     "Project management"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "provider": "Liberu\\Accounting\\ProjectsAndJobsFilament\\ProjectsAndJobsFilamentServiceProvider",
   "presentation": {
     "filament": {
